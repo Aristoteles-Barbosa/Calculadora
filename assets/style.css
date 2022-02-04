@@ -22,6 +22,16 @@
 .botao:hover{
     background-color: black;
 }
+#resultado{
+    background-color: white;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    color: black;
+    text-align: right;
+    padding: 5px;
+    
+}
 .calculadora{
     position: absolute;
     background-color: black;
